@@ -1,4 +1,6 @@
-computer I'm an Android Developer
-hourglass_flowing_sand I’m currently learning Flutter
-round_pushpin I'm originally from Kenya kenya.
- 
+
+### Hi there 👋
+
+- 💻 I'm an Android Developer and UI/UX Designer.
+- 🔭 I'm currently learning Flutter.
+- 📍 I'm originally from Kenya :kenya:
